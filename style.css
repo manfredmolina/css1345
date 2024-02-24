@@ -2230,6 +2230,10 @@ input[type="checkbox"] {
     background-color: var(--bg-main) !important;
 }
 
+#changeToDarkMode {
+    background-color: var(--bg-main) !important;
+}
+
 /* more modifications to the wiki code */
 
 
