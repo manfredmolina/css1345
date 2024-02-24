@@ -2227,7 +2227,7 @@ input[type="checkbox"] {
 /* change to darkMode */
 
 .changeToDarkMode {
-    background-color: var(--bg-main);
+    background-color: var(--bg-main) !important;
 }
 
 /* more modifications to the wiki code */
